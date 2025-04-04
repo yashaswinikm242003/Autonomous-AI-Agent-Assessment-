@@ -1,13 +1,13 @@
-import os
-import subprocess
-import json
-import shutil
-import pandas as pd
-import logging
+os
+subprocess
+json
+shutil
+pandas as pd
+logging
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
-import openai
-import spacy
-import reportlab
-import time
+openai
+spacy
+reportlab
+time
