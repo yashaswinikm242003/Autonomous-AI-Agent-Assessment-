@@ -1,11 +1,11 @@
 # Autonomous-AI-Agent-Assessment-
 This Python-based system allows you to run natural language instructions that the agent can execute through:
-- 🔍 Headless browser searches (via Selenium)
-- 💻 Terminal command execution
-- 📁 File creation and manipulation
-- 📊 Automatic CSV report generation
+- Headless browser searches (via Selenium)
+- Terminal command execution
+- File creation and manipulation
+- Automatic CSV report generation
 
-## ⚙️ Features
+## Features
 
 - **Search Automation:** Google search queries via headless Chrome (Selenium)
 - **Terminal Commands:** Executes shell commands securely and logs output
@@ -13,7 +13,7 @@ This Python-based system allows you to run natural language instructions that th
 - **Report Generation:** Outputs results to `.csv` and logs execution
 - **Simple NLP Parsing:** Uses spaCy to tokenize and handle instructions
 
-## 🧱 Components
+## Components
 
 | Class             | Responsibility                                  |
 |------------------|--------------------------------------------------|
@@ -25,7 +25,7 @@ This Python-based system allows you to run natural language instructions that th
 | `TaskExecutor`      | Orchestrates all actions based on instruction |
 
 
-## 🧪 Example Commands
+## Example Commands
 
 ```bash
 search latest news in AI
@@ -34,7 +34,7 @@ save hello.txt
 ```
 
 
-## 📦 Installation
+## Installation
 
 ```bash
 pip install selenium pandas spacy reportlab playwright google-generativeai
@@ -45,7 +45,7 @@ python -m spacy download en_core_web_sm
 
 
 
-## 🚀 Usage
+## Usage
 
 ```bash
 python task_executor.py
@@ -57,7 +57,7 @@ The system will process it, execute the action, save logs/results, and generate 
 
 
 
- ## 📝 Output
+ ## Output
 ✔execution.log — Detailed logs of actions and errors
 ✔report.csv — Structured task results
 ✔Optional created files: search_results.txt, summary.txt, etc.
@@ -65,7 +65,7 @@ The system will process it, execute the action, save logs/results, and generate 
 
 
 
- ## 📚 Tech Stack
+ ## Tech Stack
 Python 3.x , Selenium (Web Automation) ,spaCy (NLP) ,Pandas (Reporting) , ReportLab (Optional PDF Generation)
 
 
