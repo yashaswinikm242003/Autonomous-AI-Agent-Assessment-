@@ -65,7 +65,11 @@ The system will process it, execute the action, save logs/results, and generate 
 
 
  ## Tech Stack
-Python 3.x , Selenium (Web Automation) ,spaCy (NLP) ,Pandas (Reporting) , ReportLab (Optional PDF Generation)
+- Python 3.x
+- Selenium (Web Automation)
+- spaCy (NLP)
+- Pandas (Reporting)
+- ReportLab (Optional PDF Generation)
 
 
 
