@@ -32,15 +32,16 @@ This Python-based system allows you to run natural language instructions that th
 pip install selenium pandas spacy reportlab playwright google-generativeai
 python -m playwright install
 python -m spacy download en_core_web_sm
-
+```
  Also make sure you have Chrome installed and chromedriver in your PATH.
 
 
 
-## **🚀 Usage**
+## 🚀 Usage
 
 ```bash
 python task_executor.py
+```
 You'll be prompted to enter commands like:
 Enter your command (or type 'exit' to quit): search top 5 AI tools
 
