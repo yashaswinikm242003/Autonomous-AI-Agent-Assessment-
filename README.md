@@ -26,7 +26,6 @@ This Python-based system allows you to run natural language instructions that th
 
 
 
-
 ## 📦 Installation
 
 ```bash
@@ -38,7 +37,7 @@ python -m spacy download en_core_web_sm
 
 
 
-## 🚀 Usage
+## **🚀 Usage**
 
 ```bash
 python task_executor.py
