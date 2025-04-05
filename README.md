@@ -50,19 +50,15 @@ The system will process it, execute the action, save logs/results, and generate 
 
 
  ## 📝 Output
-execution.log — Detailed logs of actions and errors
-report.csv — Structured task results
-Optional created files: search_results.txt, summary.txt, etc.
+✔execution.log — Detailed logs of actions and errors
+✔report.csv — Structured task results
+✔Optional created files: search_results.txt, summary.txt, etc.
 
 
 
 
  ## 📚 Tech Stack
-Python 3.x
-Selenium (Web Automation)
-spaCy (NLP)
-Pandas (Reporting)
-ReportLab (Optional PDF Generation
+Python 3.x , Selenium (Web Automation) ,spaCy (NLP) ,Pandas (Reporting) , ReportLab (Optional PDF Generation)
 
 
 
