@@ -25,6 +25,14 @@ This Python-based system allows you to run natural language instructions that th
 | `TaskExecutor`      | Orchestrates all actions based on instruction |
 
 
+## 🧪 Example Commands
+
+```bash
+search latest news in AI
+run echo "Hello from AI"
+save hello.txt
+```
+
 
 ## 📦 Installation
 
