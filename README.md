@@ -57,9 +57,9 @@ The system will process it, execute the action, save logs/results, and generate 
 
 
  ## Output
-- 1)execution.log — Detailed logs of actions and errors
-- 2)report.csv — Structured task results
-- 3)Optional created files: search_results.txt, summary.txt, etc.
+- execution.log — Detailed logs of actions and errors
+- report.csv — Structured task results
+- Optional created files: search_results.txt, summary.txt, etc.
 
 
 
