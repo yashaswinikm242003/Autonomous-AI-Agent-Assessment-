@@ -37,8 +37,7 @@ save hello.txt
 ## Installation
 
 ```bash
-pip install selenium pandas spacy reportlab playwright google-generativeai
-python -m playwright install
+pip install selenium pandas spacy reportlab openai
 python -m spacy download en_core_web_sm
 ```
  Also make sure you have Chrome installed and chromedriver in your PATH.
