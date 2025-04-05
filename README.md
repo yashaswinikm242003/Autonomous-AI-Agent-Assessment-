@@ -47,7 +47,7 @@ python -m spacy download en_core_web_sm
 ## Usage
 
 ```bash
-python task_executor.py
+python Autonomous-AI-Agent-Assessment.py
 ```
 You'll be prompted to enter commands like:
 Enter your command (or type 'exit' to quit): search top 5 AI tools
@@ -57,9 +57,9 @@ The system will process it, execute the action, save logs/results, and generate 
 
 
  ## Output
-✔execution.log — Detailed logs of actions and errors
-✔report.csv — Structured task results
-✔Optional created files: search_results.txt, summary.txt, etc.
+- 1)execution.log — Detailed logs of actions and errors
+- 2)report.csv — Structured task results
+- 3)Optional created files: search_results.txt, summary.txt, etc.
 
 
 
