@@ -1,4 +1,4 @@
-# Autonomous-AI-Agent-Assessment-
+# Autonomous-AI-Agent-Assessment
 This Python-based system allows you to run natural language instructions that the agent can execute through:
 - Headless browser searches (via Selenium)
 - Terminal command execution
