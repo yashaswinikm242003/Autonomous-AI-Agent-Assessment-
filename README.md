@@ -47,7 +47,7 @@ python -m spacy download en_core_web_sm
 ## Usage
 
 ```bash
-python Autonomous-AI-Agent-Assessment.py
+python Autonomous_Ai_System.py
 ```
 You'll be prompted to enter commands like:
 Enter your command (or type 'exit' to quit): search top 5 AI tools
