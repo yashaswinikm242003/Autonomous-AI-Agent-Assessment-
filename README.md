@@ -5,8 +5,6 @@ This Python-based system allows you to run natural language instructions that th
 - 📁 File creation and manipulation
 - 📊 Automatic CSV report generation
 
----
-
 ## ⚙️ Features
 
 - **Search Automation:** Google search queries via headless Chrome (Selenium)
@@ -14,8 +12,6 @@ This Python-based system allows you to run natural language instructions that th
 - **File Management:** Read, write, and move files as instructed
 - **Report Generation:** Outputs results to `.csv` and logs execution
 - **Simple NLP Parsing:** Uses spaCy to tokenize and handle instructions
-
----
 
 ## 🧱 Components
 
@@ -28,7 +24,6 @@ This Python-based system allows you to run natural language instructions that th
 | `ReportGenerator`   | Saves results into a CSV report               |
 | `TaskExecutor`      | Orchestrates all actions based on instruction |
 
----
 
 ## 🧪 Example Commands
 
